@@ -1,10 +1,42 @@
 # Changelog
 
-## 1.0.0
+## v1.0.1
 
 - Initial release
 
-### Added
+### Mods Added
+
+- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/) by [MelanieMelicious](https://thunderstore.io/c/repo/p/MelanieMelicious/) (v1.1.1)
+- [EnemyLove](https://thunderstore.io/c/repo/p/sunryze/EnemyLove/) by [sunryze](https://thunderstore.io/c/repo/p/sunryze/) (v1.0.0)
+- [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/) by [Traktool](https://thunderstore.io/c/repo/p/Traktool/) (v1.0.0)
+- [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/) by [eXish](https://thunderstore.io/c/repo/p/eXish/) (v1.0.1)
+- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/) by [SeroRonin](https://thunderstore.io/c/repo/p/SeroRonin/) (v1.2.1)
+
+### Mods Removed
+
+- [DynamicLighting](https://thunderstore.io/c/repo/p/DirtyGames/DynamicLighting/) (v1.1.0)
+- [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/) (v1.0.0)
+- [Oiia Cat Valuable](https://thunderstore.io/c/repo/p/GarStudios/Oiia_Cat_Valuable/) (v1.0.0)
+
+### Settings Changed
+
+- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/)
+  - `[Light Settings]`.`Turn Off Lights in Shop`: `false` ⇒ `true`
+- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/)
+  - `[Chat]`.`CharacterLimit`: `250` ⇒ `500`
+  - `[Server]`.`MaxPlayers`: `6` ⇒ `20`
+- [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/)
+  - `[Stamina Settings]`.`MaxRegenRate`: `8` ⇒ `6`
+  - `[Stamina Settings]`.`RegenRampUpTime`: `3` ⇒ `8`
+- [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
+  - `[DroneItems]`.`DroneItemsSpawnChance`: `0.95` ⇒ `0.4`
+  - `[UpgradeItems]`.`UpgradeItemSpawnChance`: `2.5` ⇒ `1.0`
+
+## v1.0.0
+
+- for R.E.P.O. v0.1.2
+
+### Mods Added
 
 - [BepInExPack](https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/) by [BepInEx](https://thunderstore.io/c/repo/p/BepInEx/) (5.4.2100)
 - [Clear UI](https://thunderstore.io/c/repo/p/soundedsquash/Clear_UI/) by [soundedsquash](https://thunderstore.io/c/repo/p/soundedsquash/) (v0.2.0)

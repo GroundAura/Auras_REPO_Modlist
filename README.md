@@ -1,12 +1,16 @@
-# Aura's R.E.P.O. Modlist (AREPOM)
+# Aura's R.E.P.O. Modlist
 
 Just a modlist for R.E.P.O. made for friends.
+
+Tested with R.E.P.O. v0.1.2
+
+[GitHub](https://github.com/GroundAura/Auras_REPO_Modlist) | [Thunderstore](https://thunderstore.io/c/repo/p/GroundAura/AurasREPOModlist/) | [Changelog](https://thunderstore.io/c/repo/p/GroundAura/AurasREPOModlist/changelog/)
 
 ## Installation
 
 1. Download and install a mod manager: either [r2modman](https://thunderstore.io/c/repo/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
 2. On the Game Selection screen: select `R.E.P.O.`
-3. On the Profile Selection screen: create a new profile, name it `AuraREPO`, and open it
+3. On the Profile Selection screen: create a new profile, name it `AurasREPO`, and open it
 4. In the Online Mods tab: search for `AurasREPOModlist` and download it
 5. Start Modded R.E.P.O. and enjoy
 
@@ -14,17 +18,20 @@ Just a modlist for R.E.P.O. made for friends.
 
 ### Content Mods
 
+- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/)
 - [Clear UI](https://thunderstore.io/c/repo/p/soundedsquash/Clear_UI/)
 - [ColoredNametags](https://thunderstore.io/c/repo/p/zombieseatflesh7/ColoredNametags/)
 - [Custom Colors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
 - [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/)
 - [DeadTTS](https://thunderstore.io/c/repo/p/flipf17/DeadTTS/)
-- [DynamicLighting](https://thunderstore.io/c/repo/p/DirtyGames/DynamicLighting/)
+- [EnemyLove](https://thunderstore.io/c/repo/p/sunryze/EnemyLove/)
+- [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/)
 - [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/)
+- [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/)
 - [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/)
 - [GnomedGnomeSounds](https://thunderstore.io/c/repo/p/JacuJ/GnomedGnomeSounds/)
 - [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/)
-- [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/)
+- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/)
 - [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
 - [LegoGnomes](https://thunderstore.io/c/repo/p/ColtG5/LegoGnomes/)
 - [LevelNumberUI](https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)
@@ -32,7 +39,6 @@ Just a modlist for R.E.P.O. made for friends.
 - [MoneybagProtect](https://thunderstore.io/c/repo/p/amcdev/MoneybagProtect/)
 - [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/)
 - [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
-- [Oiia Cat Valuable](https://thunderstore.io/c/repo/p/GarStudios/Oiia_Cat_Valuable/)
 - [OpenInvite](https://thunderstore.io/c/repo/p/linkoid/OpenInvite/)
 - [PlayerCount](https://thunderstore.io/c/repo/p/nickklmao/PlayerCount/)
 - [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/)
@@ -54,9 +60,3 @@ Just a modlist for R.E.P.O. made for friends.
 - [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/)
 - [REPOConfig](https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/)
 - [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/)
-
-## Links
-
-- [Thunderstore](https://thunderstore.io/c/repo/p/GroundAura/AurasREPOModlist/)
-- [GitHub](https://github.com/GroundAura/Auras_REPO_Modlist)
-- [Changelog](https://thunderstore.io/c/repo/p/GroundAura/AurasREPOModlist/changelog/)
