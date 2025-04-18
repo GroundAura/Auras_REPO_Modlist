@@ -26,12 +26,29 @@
 ### Settings Changed
 
 - [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/)
+  - `[Drop Settings]`
+    - `packageBlacklist`: `_` ⇒ `Map Player Count Bundle;Energy Bundle;Extra Jump Bundle;Grab Range Bundle;Grab Strength Bundle;Health Bundle;Sprint Speed Bundle;Tumble Launch Bundle`
+  - `[Spawn Settings]`
+    - `spawnChance`: `50` ⇒ `25`
+    - `chanceForBigPackage`: `25` ⇒ `20`
 - [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/)
+  - `[AllowedItems Upgrades]`
+    - `Item Upgrade Map Player Count Bundle`: `true` ⇒ `false`
+    - `Item Upgrade Player Energy Bundle`: `true` ⇒ `false`
+    - `Item Upgrade Player Extra Jump Bundle`: `true` ⇒ `false`
+    - `Item Upgrade Player Grab Range Bundle`: `true` ⇒ `false`
+    - `Item Upgrade Player Grab Strength Bundle`: `true` ⇒ `false`
+    - `Item Upgrade Player Health Bundle`: `true` ⇒ `false`
+    - `Item Upgrade Player Sprint Speed Bundle`: `true` ⇒ `false`
+    - `Item Upgrade Player Tumble Launch Bundle`: `true` ⇒ `false`
   - `[Bundles: Item]`
+    - `Strength Upgrade: Chance`: `-1` ⇒ `0`
     - `Strength Upgrade: Max`: `-1` ⇒ `0`
+  - `[Bundles: Item Type]`
+    - `Upgrades: Max`: `-1` ⇒ `2`
   - `[General]`
-    - `Bundle Chance`: `20` ⇒ `5`
-    - `Bundle Price Multiplier`: `66.66` ⇒ `80.0`
+    - `Bundle Chance`: `20` ⇒ `10`
+    - `Bundle Price Multiplier`: `66.66` ⇒ `75.0`
     - `Maximum Bundles In Shop`: `-1` ⇒ `3`
 - [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/)
   - `[Enemies]`
@@ -46,8 +63,9 @@
     - `DroneItemsSpawnChance`: `0.4` ⇒ `0.01`
   - `[UpgradeItems]`
     - `UpgradeItemSpawnChance`: `1.0` ⇒ `0.1`
-    - `UseShopPriceForItemSelection`: `true` ⇒ `false`
 - [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/)
+  - `[General]`
+    - `HealthShowTimer` `120` ⇒ `5`
 
 ## v1.0.1
 
