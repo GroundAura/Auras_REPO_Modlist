@@ -1,5 +1,45 @@
 # Changelog
 
+## v1.1.0
+
+### Mods Added
+
+- [AsyncLoggers](https://thunderstore.io/c/repo/p/mattymatty/AsyncLoggers/) by [mattymatty](https://thunderstore.io/c/repo/p/mattymatty/) (v2.1.4)
+- [AutoHookGenPatcher](https://thunderstore.io/c/repo/p/Hamunii/AutoHookGenPatcher/) by [Hamunii](https://thunderstore.io/c/repo/p/Hamunii/) (v1.0.6)
+- [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/repo/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/) by [DiFFoZ](https://thunderstore.io/c/repo/p/DiFFoZ/) (v1.0.1)
+- [DetourContext Dispose Fix](https://thunderstore.io/c/repo/p/Hamunii/DetourContext_Dispose_Fix/) by [Hamunii](https://thunderstore.io/c/repo/p/Hamunii/) (v1.0.4)
+- [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/) by [Enchanted_Games](https://thunderstore.io/c/repo/p/Enchanted_Games/) (v2.2.0)
+- [FixPluginTypesSerialization](https://thunderstore.io/c/repo/p/DaXcess/FixPluginTypesSerialization/) by [DaXcess](https://thunderstore.io/c/repo/p/DaXcess/) (v1.0.0)
+- [Networking Reworked](https://thunderstore.io/c/repo/p/readthisifbad/NetworkingReworked/) by [readthisifbad](https://thunderstore.io/c/repo/p/readthisifbad/) (v0.2.2)
+- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) by [Rozza](https://thunderstore.io/c/repo/p/Rozza/) (v1.0.2)
+
+### Mods Removed
+
+- [XH DamageShow EnemyHealthBar](https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/)
+
+### Mods Updated
+
+- [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/): v0.2.8 => v0.2.9
+- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/): v1.2.1 => v1.3.0
+
+### Settings Changed
+
+- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/)
+  - `[Bundles: Item]`.`Strength Upgrade: Max`: `-1` ⇒ `0`
+  - `[General]`.`Bundle Chance`: `20` ⇒ `5`
+  - `[General]`.`Bundle Price Multiplier`: `66.66` ⇒ `80.0`
+  - `[General]`.`Maximum Bundles In Shop`: `-1` ⇒ `3`
+- [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/)
+  - `[Enemies]`.`Enemy - Bang`: `true` ⇒ `false`
+  - `[Enemies]`.`Enemy - Duck`: `true` ⇒ `false`
+  - `[Enemies]`.`Enemy - Gnome`: `true` ⇒ `false`
+  - `[Enemies]`.`Enemy - Valuable Thrower`: `true` ⇒ `false`
+  - `[Filter]`.`Filter Enabled?`: `false` ⇒ `true`
+- [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
+  - `[DroneItems]`.`DroneItemsSpawnChance`: `0.4` ⇒ `0.01`
+  - `[UpgradeItems]`.`UpgradeItemSpawnChance`: `1.0` ⇒ `0.1`
+  - `[UpgradeItems]`.`UseShopPriceForItemSelection`: `true` ⇒ `false`
+
 ## v1.0.1
 
 - Initial release
@@ -14,9 +54,9 @@
 
 ### Mods Removed
 
-- [DynamicLighting](https://thunderstore.io/c/repo/p/DirtyGames/DynamicLighting/) (v1.1.0)
-- [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/) (v1.0.0)
-- [Oiia Cat Valuable](https://thunderstore.io/c/repo/p/GarStudios/Oiia_Cat_Valuable/) (v1.0.0)
+- [DynamicLighting](https://thunderstore.io/c/repo/p/DirtyGames/DynamicLighting/)
+- [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/)
+- [Oiia Cat Valuable](https://thunderstore.io/c/repo/p/GarStudios/Oiia_Cat_Valuable/)
 
 ### Settings Changed
 
@@ -73,5 +113,5 @@
 - [ShoppingListHUD](https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/) by [khalliv](https://thunderstore.io/c/repo/p/khalliv/) (v1.0.2)
 - [SillyWeaponSounds](https://thunderstore.io/c/repo/p/JacuJ/SillyWeaponSounds/) by [JacuJ](https://thunderstore.io/c/repo/p/JacuJ/) (v1.0.1)
 - [StableFlashlight](https://thunderstore.io/c/repo/p/linkoid/StableFlashlight/) by [linkoid](https://thunderstore.io/c/repo/p/linkoid/) (v1.0.0)
-- [XH_DamageShow_EnemyHealthBar](https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/) by [XiaohaiMod](https://thunderstore.io/c/repo/p/XiaohaiMod/) (v1.0.1)
+- [XH DamageShow EnemyHealthBar](https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/) by [XiaohaiMod](https://thunderstore.io/c/repo/p/XiaohaiMod/) (v1.0.1)
 - [YippeeDuck](https://thunderstore.io/c/repo/p/SteamBlizzard/YippeeDuck/) by [SteamBlizzard](https://thunderstore.io/c/repo/p/SteamBlizzard/) (v1.0.1)

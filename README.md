@@ -16,47 +16,66 @@ Tested with R.E.P.O. v0.1.2
 
 ## Included Mods
 
-### Content Mods
+### Audio
 
-- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/)
-- [Clear UI](https://thunderstore.io/c/repo/p/soundedsquash/Clear_UI/)
-- [ColoredNametags](https://thunderstore.io/c/repo/p/zombieseatflesh7/ColoredNametags/)
-- [Custom Colors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
-- [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/)
 - [DeadTTS](https://thunderstore.io/c/repo/p/flipf17/DeadTTS/)
 - [EnemyLove](https://thunderstore.io/c/repo/p/sunryze/EnemyLove/)
-- [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/)
-- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/)
-- [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/)
-- [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/)
 - [GnomedGnomeSounds](https://thunderstore.io/c/repo/p/JacuJ/GnomedGnomeSounds/)
-- [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/)
-- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/)
-- [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
 - [LegoGnomes](https://thunderstore.io/c/repo/p/ColtG5/LegoGnomes/)
-- [LevelNumberUI](https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)
 - [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/)
-- [MoneybagProtect](https://thunderstore.io/c/repo/p/amcdev/MoneybagProtect/)
-- [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/)
-- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
-- [OpenInvite](https://thunderstore.io/c/repo/p/linkoid/OpenInvite/)
-- [PlayerCount](https://thunderstore.io/c/repo/p/nickklmao/PlayerCount/)
-- [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/)
-- [REPODiscordRichPresence](https://thunderstore.io/c/repo/p/Tolian/REPODiscordRichPresence/)
 - [RickrollingRadio](https://thunderstore.io/c/repo/p/LanguidRat/RickrollingRadio/)
-- [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
-- [ShopItemDescriptions](https://thunderstore.io/c/repo/p/Ronneberg/ShopItemDescriptions/)
-- [ShoppingListHUD](https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/)
 - [SillyWeaponSounds](https://thunderstore.io/c/repo/p/JacuJ/SillyWeaponSounds/)
-- [StableFlashlight](https://thunderstore.io/c/repo/p/linkoid/StableFlashlight/)
-- [XH_DamageShow_EnemyHealthBar](https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/)
 - [YippeeDuck](https://thunderstore.io/c/repo/p/SteamBlizzard/YippeeDuck/)
 
-### Library Mods
+### Gameplay
 
+- [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/)
+- [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/)
+- [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/)
+- [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/)
+- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/)
+- [MoneybagProtect](https://thunderstore.io/c/repo/p/amcdev/MoneybagProtect/)
+- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
+- [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
+
+### Networking
+
+- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/)
+- [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
+- [Networking Reworked](https://thunderstore.io/c/repo/p/readthisifbad/NetworkingReworked/)
+- [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/)
+- [OpenInvite](https://thunderstore.io/c/repo/p/linkoid/OpenInvite/)
+- [REPODiscordRichPresence](https://thunderstore.io/c/repo/p/Tolian/REPODiscordRichPresence/)
+
+### UI
+
+- [ColoredNametags](https://thunderstore.io/c/repo/p/zombieseatflesh7/ColoredNametags/)
+- [Clear UI](https://thunderstore.io/c/repo/p/soundedsquash/Clear_UI/)
+- [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/)
+- [LevelNumberUI](https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)
+- [PlayerCount](https://thunderstore.io/c/repo/p/nickklmao/PlayerCount/)
+- [ShopItemDescriptions](https://thunderstore.io/c/repo/p/Ronneberg/ShopItemDescriptions/)
+- [ShoppingListHUD](https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/)
+- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/)
+
+### Utility
+
+- [AsyncLoggers](https://thunderstore.io/c/repo/p/mattymatty/AsyncLoggers/)
+- [AutoHookGenPatcher](https://thunderstore.io/c/repo/p/Hamunii/AutoHookGenPatcher/)
 - [BepInExPack](https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/)
+- [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/repo/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
+- [DetourContext Dispose Fix](https://thunderstore.io/c/repo/p/Hamunii/DetourContext_Dispose_Fix/)
+- [FixPluginTypesSerialization](https://thunderstore.io/c/repo/p/DaXcess/FixPluginTypesSerialization/)
 - [loaforcsSoundAPI](https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI/)
 - [loaforcsSoundAPI REPO](https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI_REPO/)
 - [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/)
+- [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/)
 - [REPOConfig](https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/)
 - [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/)
+
+### Visuals
+
+- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/)
+- [Custom Colors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
+- [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/)
+- [StableFlashlight](https://thunderstore.io/c/repo/p/linkoid/StableFlashlight/)
