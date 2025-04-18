@@ -22,25 +22,26 @@ Tested with R.E.P.O. v0.1.2
 - [EnemyLove](https://thunderstore.io/c/repo/p/sunryze/EnemyLove/)
 - [GnomedGnomeSounds](https://thunderstore.io/c/repo/p/JacuJ/GnomedGnomeSounds/)
 - [LegoGnomes](https://thunderstore.io/c/repo/p/ColtG5/LegoGnomes/)
-- [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/)
+- [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/) (tweaked settings)
 - [RickrollingRadio](https://thunderstore.io/c/repo/p/LanguidRat/RickrollingRadio/)
 - [SillyWeaponSounds](https://thunderstore.io/c/repo/p/JacuJ/SillyWeaponSounds/)
 - [YippeeDuck](https://thunderstore.io/c/repo/p/SteamBlizzard/YippeeDuck/)
 
 ### Gameplay
 
-- [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/)
+- [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/) (tweaked settings)
 - [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/)
-- [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/)
-- [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/)
-- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/)
+- [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/) (tweaked settings)
+- [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/) (tweaked settings)
+- [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/) (tweaked settings)
 - [MoneybagProtect](https://thunderstore.io/c/repo/p/amcdev/MoneybagProtect/)
 - [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
-- [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
+- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/)
+- [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/) (tweaked settings)
 
 ### Networking
 
-- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/)
+- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) (tweaked settings)
 - [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
 - [Networking Reworked](https://thunderstore.io/c/repo/p/readthisifbad/NetworkingReworked/)
 - [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/)
@@ -56,7 +57,7 @@ Tested with R.E.P.O. v0.1.2
 - [PlayerCount](https://thunderstore.io/c/repo/p/nickklmao/PlayerCount/)
 - [ShopItemDescriptions](https://thunderstore.io/c/repo/p/Ronneberg/ShopItemDescriptions/)
 - [ShoppingListHUD](https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/)
-- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/)
+- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) (tweaked settings)
 
 ### Utility
 
@@ -75,7 +76,7 @@ Tested with R.E.P.O. v0.1.2
 
 ### Visuals
 
-- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/)
+- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/) (tweaked settings)
 - [Custom Colors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
 - [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/)
 - [StableFlashlight](https://thunderstore.io/c/repo/p/linkoid/StableFlashlight/)

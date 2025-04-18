@@ -11,6 +11,7 @@
 - [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/) by [Enchanted_Games](https://thunderstore.io/c/repo/p/Enchanted_Games/) (v2.2.0)
 - [FixPluginTypesSerialization](https://thunderstore.io/c/repo/p/DaXcess/FixPluginTypesSerialization/) by [DaXcess](https://thunderstore.io/c/repo/p/DaXcess/) (v1.0.0)
 - [Networking Reworked](https://thunderstore.io/c/repo/p/readthisifbad/NetworkingReworked/) by [readthisifbad](https://thunderstore.io/c/repo/p/readthisifbad/) (v0.2.2)
+- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/) by [flipf17](https://thunderstore.io/c/repo/p/flipf17/) (v1.0.1)
 - [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) by [Rozza](https://thunderstore.io/c/repo/p/Rozza/) (v1.0.2)
 
 ### Mods Removed
@@ -24,21 +25,29 @@
 
 ### Settings Changed
 
+- [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/)
 - [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/)
-  - `[Bundles: Item]`.`Strength Upgrade: Max`: `-1` ⇒ `0`
-  - `[General]`.`Bundle Chance`: `20` ⇒ `5`
-  - `[General]`.`Bundle Price Multiplier`: `66.66` ⇒ `80.0`
-  - `[General]`.`Maximum Bundles In Shop`: `-1` ⇒ `3`
+  - `[Bundles: Item]`
+    - `Strength Upgrade: Max`: `-1` ⇒ `0`
+  - `[General]`
+    - `Bundle Chance`: `20` ⇒ `5`
+    - `Bundle Price Multiplier`: `66.66` ⇒ `80.0`
+    - `Maximum Bundles In Shop`: `-1` ⇒ `3`
 - [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/)
-  - `[Enemies]`.`Enemy - Bang`: `true` ⇒ `false`
-  - `[Enemies]`.`Enemy - Duck`: `true` ⇒ `false`
-  - `[Enemies]`.`Enemy - Gnome`: `true` ⇒ `false`
-  - `[Enemies]`.`Enemy - Valuable Thrower`: `true` ⇒ `false`
-  - `[Filter]`.`Filter Enabled?`: `false` ⇒ `true`
+  - `[Enemies]`
+    - `Enemy - Bang`: `true` ⇒ `false`
+    - `Enemy - Duck`: `true` ⇒ `false`
+    - `Enemy - Gnome`: `true` ⇒ `false`
+    - `Enemy - Valuable Thrower`: `true` ⇒ `false`
+  - `[Filter]`
+    - `Filter Enabled?`: `false` ⇒ `true`
 - [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
-  - `[DroneItems]`.`DroneItemsSpawnChance`: `0.4` ⇒ `0.01`
-  - `[UpgradeItems]`.`UpgradeItemSpawnChance`: `1.0` ⇒ `0.1`
-  - `[UpgradeItems]`.`UseShopPriceForItemSelection`: `true` ⇒ `false`
+  - `[DroneItems]`
+    - `DroneItemsSpawnChance`: `0.4` ⇒ `0.01`
+  - `[UpgradeItems]`
+    - `UpgradeItemSpawnChance`: `1.0` ⇒ `0.1`
+    - `UseShopPriceForItemSelection`: `true` ⇒ `false`
+- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/)
 
 ## v1.0.1
 
@@ -61,16 +70,22 @@
 ### Settings Changed
 
 - [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/)
-  - `[Light Settings]`.`Turn Off Lights in Shop`: `false` ⇒ `true`
+  - `[Light Settings]`
+    - `Turn Off Lights in Shop`: `false` ⇒ `true`
 - [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/)
-  - `[Chat]`.`CharacterLimit`: `250` ⇒ `500`
-  - `[Server]`.`MaxPlayers`: `6` ⇒ `20`
+  - `[Chat]`
+    - `CharacterLimit`: `250` ⇒ `500`
+  - `[Server]`
+    - `MaxPlayers`: `6` ⇒ `20`
 - [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/)
-  - `[Stamina Settings]`.`MaxRegenRate`: `8` ⇒ `6`
-  - `[Stamina Settings]`.`RegenRampUpTime`: `3` ⇒ `8`
+  - `[Stamina Settings]`
+    - `MaxRegenRate`: `8` ⇒ `6`
+    - `RegenRampUpTime`: `3` ⇒ `8`
 - [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
-  - `[DroneItems]`.`DroneItemsSpawnChance`: `0.95` ⇒ `0.4`
-  - `[UpgradeItems]`.`UpgradeItemSpawnChance`: `2.5` ⇒ `1.0`
+  - `[DroneItems]`
+    - `DroneItemsSpawnChance`: `0.95` ⇒ `0.4`
+  - `[UpgradeItems]`
+    - `UpgradeItemSpawnChance`: `2.5` ⇒ `1.0`
 
 ## v1.0.0
 
