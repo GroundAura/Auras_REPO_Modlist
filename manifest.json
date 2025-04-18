@@ -2,7 +2,7 @@
 	"name": "AurasREPOModlist",
 	"description": "Just a modlist for R.E.P.O. made for friends.",
 	"website_url": "https://github.com/GroundAura/Auras_REPO_Modlist",
-	"version_number": "1.0.1",
+	"version_number": "1.1.0",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"mattymatty-AsyncLoggers-2.1.4",
@@ -33,7 +33,7 @@
 		"nickklmao-MenuLib-2.3.0",
 		"eth9n-Mimic-1.1.6",
 		"amcdev-MoneybagProtect-1.1.0",
-		"readthisifbad-NetworkingReworked-0.2.2j",
+		"readthisifbad-NetworkingReworked-0.2.2",
 		"PxntxrezStudio-No_Save_Delete-1.2.3",
 		"Snowlance-NoDamageInShop-1.0.1",
 		"flipf17-OpenExtractionWithCart-1.0.1",
