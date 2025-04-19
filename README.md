@@ -29,15 +29,15 @@ Tested with R.E.P.O. v0.1.2
 
 ### Gameplay
 
+- [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/)
 - [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/) (tweaked settings)
 - [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/)
 - [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/) (tweaked settings)
 - [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/) (tweaked settings)
 - [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/) (tweaked settings)
 - [MoneybagProtect](https://thunderstore.io/c/repo/p/amcdev/MoneybagProtect/)
-- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
-- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/)
 - [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/) (tweaked settings)
+- [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/)
 
 ### Networking
 

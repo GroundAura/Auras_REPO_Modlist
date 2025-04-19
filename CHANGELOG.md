@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.2.0
+
+### Mods Added
+
+- [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/) by [FNKT_Labs](https://thunderstore.io/c/repo/p/FNKT_Labs/) (v1.2.5)
+- [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/) by [heuracorp](https://thunderstore.io/c/repo/p/heuracorp/) (v1.0.1)
+
+### Mods Removed
+
+- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
+- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/)
+
 ## v1.1.0
 
 ### Mods Added
