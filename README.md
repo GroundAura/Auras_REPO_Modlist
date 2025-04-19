@@ -27,6 +27,10 @@ Tested with R.E.P.O. v0.1.2
 - [SillyWeaponSounds](https://thunderstore.io/c/repo/p/JacuJ/SillyWeaponSounds/)
 - [YippeeDuck](https://thunderstore.io/c/repo/p/SteamBlizzard/YippeeDuck/)
 
+### Cosmetics
+
+- [Custom Colors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
+
 ### Gameplay
 
 - [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/)
@@ -35,6 +39,7 @@ Tested with R.E.P.O. v0.1.2
 - [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/) (tweaked settings)
 - [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/) (tweaked settings)
 - [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/) (tweaked settings)
+- [ItemsBounceBack](https://thunderstore.io/c/repo/p/SeroRonin/ItemsBounceBack/)
 - [MoneybagProtect](https://thunderstore.io/c/repo/p/amcdev/MoneybagProtect/)
 - [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/) (tweaked settings)
 - [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/)
@@ -77,6 +82,5 @@ Tested with R.E.P.O. v0.1.2
 ### Visuals
 
 - [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/) (tweaked settings)
-- [Custom Colors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
 - [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/)
 - [StableFlashlight](https://thunderstore.io/c/repo/p/linkoid/StableFlashlight/)

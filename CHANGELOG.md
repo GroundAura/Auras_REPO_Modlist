@@ -5,12 +5,17 @@
 ### Mods Added
 
 - [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/) by [FNKT_Labs](https://thunderstore.io/c/repo/p/FNKT_Labs/) (v1.2.5)
+- [ItemsBounceBack](https://thunderstore.io/c/repo/p/SeroRonin/ItemsBounceBack/) by [SeroRonin](https://thunderstore.io/c/repo/p/SeroRonin/) (v1.1.0)
 - [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/) by [heuracorp](https://thunderstore.io/c/repo/p/heuracorp/) (v1.0.1)
 
 ### Mods Removed
 
 - [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
 - [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/)
+
+### Mods Updated
+
+- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/): v1.0.2 => v1.0.3
 
 ## v1.1.0
 
