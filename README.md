@@ -26,6 +26,7 @@ Tested with R.E.P.O. v0.1.2
 - [RickrollingRadio](https://thunderstore.io/c/repo/p/LanguidRat/RickrollingRadio/)
 - [SillyWeaponSounds](https://thunderstore.io/c/repo/p/JacuJ/SillyWeaponSounds/)
 - [YippeeDuck](https://thunderstore.io/c/repo/p/SteamBlizzard/YippeeDuck/)
+- [You Spin Me Round Music Box](https://thunderstore.io/c/repo/p/RENNY/You_Spin_Me_Round_Music_Box/)
 
 ### Cosmetics
 

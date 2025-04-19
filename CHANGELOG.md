@@ -7,6 +7,7 @@
 - [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/) by [FNKT_Labs](https://thunderstore.io/c/repo/p/FNKT_Labs/) (v1.2.5)
 - [ItemsBounceBack](https://thunderstore.io/c/repo/p/SeroRonin/ItemsBounceBack/) by [SeroRonin](https://thunderstore.io/c/repo/p/SeroRonin/) (v1.1.0)
 - [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/) by [heuracorp](https://thunderstore.io/c/repo/p/heuracorp/) (v1.0.1)
+- [You Spin Me Round Music Box](https://thunderstore.io/c/repo/p/RENNY/You_Spin_Me_Round_Music_Box/) by [RENNY](https://thunderstore.io/c/repo/p/RENNY/) (v1.0.1)
 
 ### Mods Removed
 
