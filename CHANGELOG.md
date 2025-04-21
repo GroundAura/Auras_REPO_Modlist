@@ -11,11 +11,14 @@
 
 ### Mods Removed
 
-- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
-- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/)
+- [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/) - caused issues
+- [Networking Reworked](https://thunderstore.io/c/repo/p/readthisifbad/NetworkingReworked/) - caused issues
+- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) - replaced with [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/)
+- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/) - caused issues
 
 ### Mods Updated
 
+- [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/): v1.1.1 => v1.1.2
 - [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/): v1.0.2 => v1.0.3
 
 ## v1.1.0
@@ -34,7 +37,7 @@
 
 ### Mods Removed
 
-- [XH DamageShow EnemyHealthBar](https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/)
+- [XH DamageShow EnemyHealthBar](https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/) - replaced with [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/)
 
 ### Mods Updated
 
@@ -99,9 +102,9 @@
 
 ### Mods Removed
 
-- [DynamicLighting](https://thunderstore.io/c/repo/p/DirtyGames/DynamicLighting/)
-- [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/)
-- [Oiia Cat Valuable](https://thunderstore.io/c/repo/p/GarStudios/Oiia_Cat_Valuable/)
+- [DynamicLighting](https://thunderstore.io/c/repo/p/DirtyGames/DynamicLighting/) - didn't use it
+- [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/) - changed mind, didn't want it
+- [Oiia Cat Valuable](https://thunderstore.io/c/repo/p/GarStudios/Oiia_Cat_Valuable/) - weird sizing on model, I'm picky
 
 ### Settings Changed
 

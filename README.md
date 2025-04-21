@@ -36,7 +36,6 @@ Tested with R.E.P.O. v0.1.2
 
 - [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/)
 - [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/) (tweaked settings)
-- [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/)
 - [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/) (tweaked settings)
 - [ImprovedStamina](https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/) (tweaked settings)
 - [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/) (tweaked settings)
@@ -49,7 +48,6 @@ Tested with R.E.P.O. v0.1.2
 
 - [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) (tweaked settings)
 - [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
-- [Networking Reworked](https://thunderstore.io/c/repo/p/readthisifbad/NetworkingReworked/)
 - [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/)
 - [OpenInvite](https://thunderstore.io/c/repo/p/linkoid/OpenInvite/)
 - [REPODiscordRichPresence](https://thunderstore.io/c/repo/p/Tolian/REPODiscordRichPresence/)
