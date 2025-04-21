@@ -22,7 +22,6 @@ Tested with R.E.P.O. v0.1.2
 - [EnemyLove](https://thunderstore.io/c/repo/p/sunryze/EnemyLove/)
 - [GnomedGnomeSounds](https://thunderstore.io/c/repo/p/JacuJ/GnomedGnomeSounds/)
 - [LegoGnomes](https://thunderstore.io/c/repo/p/ColtG5/LegoGnomes/)
-- [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/) (tweaked settings)
 - [RickrollingRadio](https://thunderstore.io/c/repo/p/LanguidRat/RickrollingRadio/)
 - [SillyWeaponSounds](https://thunderstore.io/c/repo/p/JacuJ/SillyWeaponSounds/)
 - [YippeeDuck](https://thunderstore.io/c/repo/p/SteamBlizzard/YippeeDuck/)
@@ -32,9 +31,13 @@ Tested with R.E.P.O. v0.1.2
 
 - [Custom Colors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
 
-### Gameplay
+### Enemies
 
 - [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/)
+- [Mimic](https://thunderstore.io/c/repo/p/eth9n/Mimic/) (tweaked settings)
+
+### Gameplay
+
 - [DeadTTS](https://thunderstore.io/c/repo/p/flipf17/DeadTTS/)
 - [EnhancedStaminaUpgrade](https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/) (tweaked settings)
 - [ForgottenDelivery](https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/) (tweaked settings)
@@ -63,7 +66,7 @@ Tested with R.E.P.O. v0.1.2
 - [ShopItemDescriptions](https://thunderstore.io/c/repo/p/Ronneberg/ShopItemDescriptions/)
 - [ShoppingListHUD](https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/)
 - [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) (tweaked settings)
-- [TimerMod](https://thunderstore.io/c/repo/p/Bydlo/TimerMod/)
+- [TimerMod](https://thunderstore.io/c/repo/p/Bydlo/TimerMod/) (tweaked settings)
 
 ### Utility
 
