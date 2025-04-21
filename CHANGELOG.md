@@ -1,33 +1,44 @@
 # Changelog
 
-## v1.2.0
+## v1.3.0
 
 ### Mods Added
 
-- [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/) by [FNKT_Labs](https://thunderstore.io/c/repo/p/FNKT_Labs/) (v1.2.5)
 - [BetterDoorSounds](https://thunderstore.io/c/repo/p/TheASMRsonist/BetterDoorSounds/) by [TheASMRsonist](https://thunderstore.io/c/repo/p/TheASMRsonist/) (v1.1.3)
-- [ItemsBounceBack](https://thunderstore.io/c/repo/p/SeroRonin/ItemsBounceBack/) by [SeroRonin](https://thunderstore.io/c/repo/p/SeroRonin/) (v1.1.0)
-- [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/) by [heuracorp](https://thunderstore.io/c/repo/p/heuracorp/) (v1.0.1)
 - [TimerMod](https://thunderstore.io/c/repo/p/Bydlo/TimerMod/) by [Bydlo](https://thunderstore.io/c/repo/p/Bydlo/) (v1.1.1)
-- [You Spin Me Round Music Box](https://thunderstore.io/c/repo/p/RENNY/You_Spin_Me_Round_Music_Box/) by [RENNY](https://thunderstore.io/c/repo/p/RENNY/) (v1.0.1)
 
 ### Mods Removed
 
 - [ExploitFix](https://thunderstore.io/c/repo/p/Enchanted_Games/ExploitFix/) - caused issues
 - [Networking Reworked](https://thunderstore.io/c/repo/p/readthisifbad/NetworkingReworked/) - caused issues
-- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) - replaced with [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/)
-- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/) - caused issues
 
 ### Mods Updated
 
 - [Cart Lights](https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/): v1.1.1 => v1.1.2
-- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/): v1.0.2 => v1.0.3
 
 ### Settings Changed
 
 - [TimerMod](https://thunderstore.io/c/repo/p/Bydlo/TimerMod/)
   - `[Timers]`
     - `EnemyTimerEnabled`: `true` ⇒ `false`
+
+## v1.2.0
+
+### Mods Added
+
+- [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/) by [FNKT_Labs](https://thunderstore.io/c/repo/p/FNKT_Labs/) (v1.2.5)
+- [ItemsBounceBack](https://thunderstore.io/c/repo/p/SeroRonin/ItemsBounceBack/) by [SeroRonin](https://thunderstore.io/c/repo/p/SeroRonin/) (v1.1.0)
+- [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/) by [heuracorp](https://thunderstore.io/c/repo/p/heuracorp/) (v1.0.1)
+- [You Spin Me Round Music Box](https://thunderstore.io/c/repo/p/RENNY/You_Spin_Me_Round_Music_Box/) by [RENNY](https://thunderstore.io/c/repo/p/RENNY/) (v1.0.1)
+
+### Mods Removed
+
+- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) - replaced with [ShopRevive](https://thunderstore.io/c/repo/p/heuracorp/ShopRevive/)
+- [OpenExtractionWithCart](https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/) - caused issues
+
+### Mods Updated
+
+- [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/): v1.0.2 => v1.0.3
 
 ## v1.1.0
 
