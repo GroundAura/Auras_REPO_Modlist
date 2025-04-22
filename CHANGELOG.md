@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.3.1
+
+- fix manifest dependencies
+  - [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/): v0.2.8 => v0.2.9
+  - [ItemBundles](https://thunderstore.io/c/repo/p/SeroRonin/ItemBundles/): v1.2.1 => v1.3.0
+
+### Settings Changed
+
+- [TimerMod](https://thunderstore.io/c/repo/p/Bydlo/TimerMod/)
+  - `[Timers]`
+    - `CountdownEnabled`: `true` ⇒ `false`
+
 ## v1.3.0
 
 ### Mods Added
