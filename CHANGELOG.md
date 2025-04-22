@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.3.2
+
+- fix manifest dependencies
+  - [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/)
+
+### Mods Updated
+
+- [BerserkerEnemies](https://thunderstore.io/c/repo/p/FNKT_Labs/BerserkerEnemies/): v1.2.5 => v1.2.7
+
 ## v1.3.1
 
 - fix manifest dependencies

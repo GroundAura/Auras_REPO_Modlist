@@ -10,7 +10,7 @@ Tested with R.E.P.O. v0.1.2
 
 1. Download and install a mod manager: either [r2modman](https://thunderstore.io/c/repo/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
 2. On the Game Selection screen: select `R.E.P.O.`
-3. On the Profile Selection screen: create a new profile, name it `AurasREPO`, and open it
+3. On the Profile Selection screen: create a new profile and open it
 4. In the Online Mods tab: search for `AurasREPOModlist` and download it
 5. Start Modded R.E.P.O. and enjoy
 
